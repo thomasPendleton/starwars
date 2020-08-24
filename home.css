@@ -1,0 +1,14 @@
+@font-face {font-family:"STARWARS";src:url("STARWARS.woff") format("woff")}
+
+body{
+    background-image: url('starsbackground.jpg');
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-family: 'starwars';
+    font-size: 7em;
+    letter-spacing: .1em;
+}
+
